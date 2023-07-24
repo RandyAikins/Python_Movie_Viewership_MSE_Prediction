@@ -19,7 +19,7 @@ viewership levels and also determine the presence of major sports events that ma
 ![Library](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/2c922e22-0ad9-4fdd-a4d5-d1d5d22e0331)
 
 
-## Data Description and Import
+## 1.2 Data Description and Import
 - visitors: Average number of visitors, in millions, to the platform in the past week
 - ad_impressions: Number of ad impressions, in millions, across all ad campaigns for the content (running and completed)
 - major_sports_event: Any major sports event on the day
@@ -30,3 +30,9 @@ viewership levels and also determine the presence of major sports events that ma
 - views_content: Number of first-day views, in millions, of the content
 
 ![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/7e4948f6-4251-4312-a7b7-ce6846b55306)
+
+## 1.3 Data Assessment
+The dataset is assessed for shape, information, statistical description of features, duplicated and null values
+![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/48671f60-6466-46a5-b953-af0395955be8)
+
+
