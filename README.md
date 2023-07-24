@@ -16,7 +16,7 @@ viewership levels and also determine the presence of major sports events that ma
 - Make recommendations based on the analysis
 
 ## 1.1 Import of Python Libraries
-![Library]("https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/2c922e22-0ad9-4fdd-a4d5-d1d5d22e0331")
+![Library](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/2c922e22-0ad9-4fdd-a4d5-d1d5d22e0331)
 
 
 ## Data Description
