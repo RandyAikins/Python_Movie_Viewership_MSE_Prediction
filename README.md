@@ -33,6 +33,21 @@ viewership levels and also determine the presence of major sports events that ma
 
 ## 1.3 Data Assessment
 The dataset is assessed for shape, information, statistical description of features, duplicated and null values
+
 ![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/48671f60-6466-46a5-b953-af0395955be8)
+
+## 2.0 Exploratory Data Analysis (EDA)
+Univariate, Bivariate, and Multivariate Analysis is performed to uncover patterns among features
+
+## 2.1 Univariate Analysis
+
+![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/012c4b7a-11d3-4585-bd7c-f6436c80232c)
+
+![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/0fb88c0a-b401-43d7-b04d-c1edf90c1ffe)
+
+![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/83f67a4e-ba25-47a9-9331-bae42c3e91a4)
+
+
+
 
 
