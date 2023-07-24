@@ -16,17 +16,15 @@ viewership levels and also determine the presence of major sports events that ma
 - Make recommendations based on the analysis
 
 ## 1.1 Import of Python Libraries
-![Library](image"C:\Users\RANDY\Downloads\New folder\1.library import.PNG")
+![Library]("https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/2c922e22-0ad9-4fdd-a4d5-d1d5d22e0331")
 
 
 ## Data Description
-● visitors: Average number of visitors, in millions, to the platform in the
-past week
-● ad_impressions: Number of ad impressions, in millions, across all ad
-campaigns for the content (running and completed)
-● major_sports_event: Any major sports event on the day
-● genre: Genre of the content
-● dayofweek: Day of the release of the content
-● season: Season of the release of the content
-● views_trailer: Number of views, in millions, of the content trailer
-● views_content: Number of first-day views, in millions, of the content
+- visitors: Average number of visitors, in millions, to the platform in the past week
+- ad_impressions: Number of ad impressions, in millions, across all ad campaigns for the content (running and completed)
+- major_sports_event: Any major sports event on the day
+- genre: Genre of the content
+- dayofweek: Day of the release of the content
+- season: Season of the release of the content
+- views_trailer: Number of views, in millions, of the content trailer
+- views_content: Number of first-day views, in millions, of the content
