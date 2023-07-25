@@ -1,4 +1,4 @@
-# Movie Viewership Forecast and Major Sports Event Prediction
+# SERVICE VIEWERSHIP PREDICTION AND MAJOR SPORTS EVENT DAY CLASSIFICATION
 
 ## Introduction
 Solace Stream is a leading streaming media company that offers a vast library of movies, TV shows, documentaries, and original content catering to a global audience. 
