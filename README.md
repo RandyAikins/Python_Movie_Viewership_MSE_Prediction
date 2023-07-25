@@ -42,9 +42,7 @@ The dataset is assessed for shape, information, statistical description of featu
 Univariate, Bivariate, and Multivariate Analysis is performed to uncover patterns and identify relationships among features
 
 ![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/012c4b7a-11d3-4585-bd7c-f6436c80232c)
-
 ![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/9dc3b9ad-3a6a-4604-a92f-880494e0a24c)
-
 ![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/33b19092-d182-4c17-a61d-cf6d54ebc163)
 
 
