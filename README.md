@@ -63,11 +63,12 @@ The regression model for forecasting content viewership is built using 3 machine
 - Randon Forest Regressor
 - XGBoost Regressor
 
-* This is done by instantiating the algorithm 
+This is done by:
+* instantiating the algorithm 
 * Training the algorithm using the training sets
 * Viewership prediction using the testing set
 
-![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/6233edb4-a9b2-4212-bd73-87b94308f612)
+![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/59703684-6815-4887-ac0b-87c699bc98d3)
 
 
 
