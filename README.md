@@ -117,8 +117,8 @@ The 2 classification models built are evaluated using:
 
 Using these metrics to measure the performance of the models, Gaussian Naive Bayes suits the better as it has a higher accuracy score
 
-![](github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/2e6076ab-93ad-4d68-a08d-2fe8fcdbac27)
-![](github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/b40ecc0d-00f7-41fe-805d-c58748d2c30b)
+![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/e4e2d96d-ea9c-4fc8-8fea-26bb9b076e6e)
+![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/c2c522e8-b3c1-4cc2-975f-3396c63891d5)
 
 
 # Insights:
