@@ -120,4 +120,3 @@ Using these metrics to measure the performance of the models, Gaussian Naive Bay
 ![](github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/2e6076ab-93ad-4d68-a08d-2fe8fcdbac27)
 ![](github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/b40ecc0d-00f7-41fe-805d-c58748d2c30b)
 
-
