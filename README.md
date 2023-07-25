@@ -31,12 +31,14 @@ viewership levels and also determine the presence of major sports events that ma
 
 ![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/7e4948f6-4251-4312-a7b7-ce6846b55306)
 
-## 1.3 Data Assessment
+
+# 1.3 Data Assessment
 The dataset is assessed for shape, information, statistical description of features, duplicated and null values
 
 ![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/48671f60-6466-46a5-b953-af0395955be8)
 
-## 2.0 Exploratory Data Analysis (EDA)
+
+# 2.0 Exploratory Data Analysis (EDA)
 Univariate, Bivariate, and Multivariate Analysis is performed to uncover patterns and identify relationships among features
 
 ![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/012c4b7a-11d3-4585-bd7c-f6436c80232c)
@@ -46,7 +48,7 @@ Univariate, Bivariate, and Multivariate Analysis is performed to uncover pattern
 ![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/33b19092-d182-4c17-a61d-cf6d54ebc163)
 
 
-## 3.0 Regression Task
+# 3.0 Regression Task
 The task is to build a machine-learning model to predict the amount of viewership for Solace Stream services 
 
 ## 3.1 Data Pre-processing
@@ -60,7 +62,7 @@ The data pre-processing involved:
 ![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/83cda192-6b33-44a7-8c08-31afa65ccc01)
 
 ## 3.2 Model Building
-The regression model for forecasting content viewership is built using 3 machine-learning algorithms:
+The regression model for predicting content viewership is built using 3 machine-learning algorithms:
 - Linear Regression
 - Randon Forest Regressor
 - XGBoost Regressor
@@ -82,7 +84,8 @@ Using these metrics to measure the performance of the models, Linear Regression 
 
 ![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/6233edb4-a9b2-4212-bd73-87b94308f612)
 
-## 4.0 Classification Task
+
+# 4.0 Classification Task
 The task is to classify data points into major sport event and non-major sports event 
 
 ## 4.1 Data Preprocessing
@@ -91,5 +94,30 @@ The task is to classify data points into major sport event and non-major sports 
 - splitting the data into training and testing sets
 
 ![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/7b523709-d25c-4d2d-91a7-edc98bdcb2c5)
+
+## 4.2 Model Building
+The classification model for classifying data points into major sports event and non-major sports event is built using 3 machine-learning algorithms:
+- Gaussian Naive Bayes
+- Decision Tree Classifier
+
+This is done by:
+* instantiating the algorithm 
+* Training the algorithm using the training sets
+* Predicting major sport event using the testing set
+
+![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/3e403bd8-f2ac-4474-9e1c-dd6d0405a634)
+
+## 4.3 Model Evaluation
+The 2 classification models built are evaluated using:
+- accuracy score
+- precision score
+- recall score
+- f1 score
+- confusion matrix
+
+Using these metrics to measure the performance of the models, Gaussian Naive Bayes suits the better as it has a higher accuracy score
+
+![](github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/2e6076ab-93ad-4d68-a08d-2fe8fcdbac27)
+![](github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/b40ecc0d-00f7-41fe-805d-c58748d2c30b)
 
 
