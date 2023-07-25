@@ -37,7 +37,7 @@ The dataset is assessed for shape, information, statistical description of featu
 ![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/48671f60-6466-46a5-b953-af0395955be8)
 
 ## 2.0 Exploratory Data Analysis (EDA)
-Univariate, Bivariate, and Multivariate Analysis is performed to uncover patterns among features
+Univariate, Bivariate, and Multivariate Analysis is performed to uncover patterns and identify relationships among features
 
 ![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/012c4b7a-11d3-4585-bd7c-f6436c80232c)
 
@@ -45,8 +45,29 @@ Univariate, Bivariate, and Multivariate Analysis is performed to uncover pattern
 
 ![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/33b19092-d182-4c17-a61d-cf6d54ebc163)
 
+## 3.0 Regression Task
 
+## 3.1 Data Pre-processing
+The pre-processing involved:
+- dropping some features
+- encoding categorical labels into numerical labels using Label Encoder from Scikit-learn
+- segmenting the dataset into predictor variables (x) and target variables (y)
+- scaling x variables using Standard Scaler
+- splitting the data into training and testing sets
 
+![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/83cda192-6b33-44a7-8c08-31afa65ccc01)
+
+## 3.2 Model Building
+The regression model for forecasting content viewership is built using 3 machine-learning algorithms:
+- Linear Regression
+- Randon Forest Regressor
+- XGBoost Regressor
+
+* This is done by instantiating the algorithm 
+* Training the algorithm using the training sets
+* Viewership prediction using the testing set
+
+![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/6233edb4-a9b2-4212-bd73-87b94308f612)
 
 
 
