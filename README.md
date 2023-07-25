@@ -45,10 +45,12 @@ Univariate, Bivariate, and Multivariate Analysis is performed to uncover pattern
 
 ![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/33b19092-d182-4c17-a61d-cf6d54ebc163)
 
+
 ## 3.0 Regression Task
+The task is to build a machine-learning model to predict the amount of viewership for Solace Stream services 
 
 ## 3.1 Data Pre-processing
-The pre-processing involved:
+The data pre-processing involved:
 - dropping some features
 - encoding categorical labels into numerical labels using Label Encoder from Scikit-learn
 - segmenting the dataset into predictor variables (x) and target variables (y)
@@ -80,6 +82,14 @@ Using these metrics to measure the performance of the models, Linear Regression 
 
 ![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/6233edb4-a9b2-4212-bd73-87b94308f612)
 
+## 4.0 Classification Task
+The task is to classify data points into major sport event and non-major sports event 
 
+## 4.1 Data Preprocessing
+- segmenting the dataset into predictor variables (x) and target variables (y)
+- scaling x variables using Standard Scaler
+- splitting the data into training and testing sets
+
+![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/7b523709-d25c-4d2d-91a7-edc98bdcb2c5)
 
 
