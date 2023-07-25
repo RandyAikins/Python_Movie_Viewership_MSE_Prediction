@@ -70,6 +70,16 @@ This is done by:
 
 ![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/59703684-6815-4887-ac0b-87c699bc98d3)
 
+## 3.3 Model Evaluation
+The 3 regression models built are evaluated using:
+- r-squared (r2)
+- mean squared error (MSE)
+- mean absolute error (MAE)
+
+Using these metrics to measure the performance of the models, Linear Regression was the best on all 3 evaluation metrics
+
+![](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/6233edb4-a9b2-4212-bd73-87b94308f612)
+
 
 
 
