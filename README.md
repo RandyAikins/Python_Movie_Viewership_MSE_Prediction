@@ -120,3 +120,14 @@ Using these metrics to measure the performance of the models, Gaussian Naive Bay
 ![](github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/2e6076ab-93ad-4d68-a08d-2fe8fcdbac27)
 ![](github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/b40ecc0d-00f7-41fe-805d-c58748d2c30b)
 
+
+# Insights:
+- There is low viewership for most trailers which has a positive relationship with content viewership.
+- 40% of content release day coincide with major sport event which negatively affects content viewership.
+- Sci-Fi, Comedy, and Thriller are preferred genres with Drama and Horror the least preferred genres.
+- Most of the movies released belong to the Others genre (25.5%) which has low viewership.
+- Movies released on Wednesdays have the most viewership with Monday and Thursday-released movies bringing the least content views.
+
+# Recommendations:
+- Solace Stream should use the classification models to guide movie release days to reduce coincidence with major sports event which negatively affect content viewership.
+- Use regression model to optimize features in boosting future content viewership. For example, trailer views that have a positive relationship with content viewership should be boosted. 
