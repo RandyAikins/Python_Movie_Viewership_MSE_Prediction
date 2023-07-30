@@ -18,7 +18,6 @@ viewership levels and also determine the presence of major sports events that ma
 ## 1.1 Import of Python Libraries
 ![Library](https://github.com/RandyAikins/Python_Movie_Viewership_MSE_Prediction/assets/128720674/2c922e22-0ad9-4fdd-a4d5-d1d5d22e0331)
 
-![](https://github.com/RandyAikins/Captsone-Project/assets/128720674/d233c4df-dd3f-4469-b8f6-b922a994880c)
 
 ## 1.2 Data Description and Import
 - visitors: Average number of visitors, in millions, to the platform in the past week
